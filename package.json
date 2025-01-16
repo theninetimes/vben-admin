@@ -1,0 +1,19 @@
+{
+  "name": "vben-admin-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": "true",
+  "packageManager": "pnpm@9.15.3",
+  "devDependencies": {
+    "eslint": "catalog:",
+    "prettier": "catalog:",
+    "vite": "6.0.7"
+  }
+}
